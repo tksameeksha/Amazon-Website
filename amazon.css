@@ -139,11 +139,11 @@ line-height: 31px;
 
  height: 477px;
     width: 100%;
-    
+    display: flex;
 }
 .page4A{
     width: 50%;
-    float: left;
+   
     height: 477px;
     background-color: black;
 
@@ -152,7 +152,7 @@ line-height: 31px;
 
  width: 50%;
     height: 477px;
-    float: left;
+    
     
 }
 .text41{
